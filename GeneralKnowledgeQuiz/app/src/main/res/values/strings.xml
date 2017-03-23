@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">General Knowledge Quiz</string>
+
+    <string name="header">Quiz</string>
+
+    <string name="q1">1. Which is the biggest continent?</string>
+    <string name="q1a">Oceania</string>
+    <string name="q1b">South America</string>
+    <string name="q1c">Africa</string>
+    <string name="q1d">Asia</string>
+
+    <string name="q2">2. The rise of earth\'s surface will form which of the following scenery？</string>
+    <string name="q2a">valley</string>
+    <string name="q2b">ocean</string>
+    <string name="q2c">basin</string>
+    <string name="q2d">mountains</string>
+
+    <string name="q3">3. Which of the following is the specialty food of Korea？</string>
+    <string name="q3a">Sushi</string>
+    <string name="q3b">Porridge</string>
+    <string name="q3c">French fries</string>
+    <string name="q3d">Pickle</string>
+
+    <string name="q4">4. Where do ancient Chinese live?</string>
+    <string name="q4a">Near the river</string>
+    <string name="q4b">On the mountain</string>
+    <string name="q4c">In the forest</string>
+    <string name="q4d">In the ocean</string>
+
+    <string name="q5">5. Which of the following can be a direct disaster caused by typhoons? Choose all that apply.</string>
+    <string name="q5a">Landslide</string>
+    <string name="q5b">Buildings collapse</string>
+    <string name="q5c">Fire burst out</string>
+    <string name="q5d">Traffic chaos</string>
+
+    <string name="q6">6. Where\'s the capital city of Swiss?</string>
+    <string name="q6hint">YOUR ANSWER HERE</string>
+
+    <string name="honor_code">Please enter your name here to assure this commitment is your own work.</string>
+    <string name="name_field">YOUR NAME</string>
+
+    <string name="txt_button">SUBMIT</string>
+
+</resources>
