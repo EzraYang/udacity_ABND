@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AmericanFootballScoreKeeper</string>
+
+    <string name="reset">RESET</string>
+
+    <string name="six">+ 6 points</string>
+    <string name="three">+ 3 points</string>
+    <string name="two">+ 2 points</string>
+    <string name="one">+ 1 point</string>
+
+</resources>

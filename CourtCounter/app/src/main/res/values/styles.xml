@@ -1,0 +1,49 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#FBC02D</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FDD835</item>
+    </style>
+    
+    <style name="TeamName">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingTop">@dimen/pad_team_name</item>
+        <item name="android:paddingBottom">@dimen/pad_team_name</item>
+        <item name="android:textColor">#616161</item>
+        <item name="android:textSize">@dimen/txtsz_team_name</item>
+    </style>
+
+    <style name="Score">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:text">0</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/txtsz_score</item>
+    </style>
+
+    <style name="FirstButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/margin_left_and_right</item>
+        <item name="android:layout_marginRight">@dimen/margin_left_and_right</item>
+        <item name="android:layout_marginTop">@dimen/margin_1st_buttontop</item>
+    </style>
+
+
+    <style name="OtherButtons">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/margin_left_and_right</item>
+        <item name="android:layout_marginRight">@dimen/margin_left_and_right</item>
+        <item name="android:layout_marginTop">@dimen/margin_btw_buttons</item>
+    </style>
+
+
+</resources>
