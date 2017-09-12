@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!--title field-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_field_txt"
+            style="@style/list_item_header_style"/>
+
+        <TextView
+            android:id="@+id/title_field"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="title"
+            style="@style/list_item_txt_style"/>
+
+    </LinearLayout>
+
+    <!--subtitle field-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/subtitle_field_txt"
+            style="@style/list_item_header_style"/>
+
+        <TextView
+            android:id="@+id/subtitle_field"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="subtitle"
+            style="@style/list_item_txt_style"/>
+
+    </LinearLayout>
+
+    <!--author field-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/author_field_txt"
+            style="@style/list_item_header_style"/>
+
+        <TextView
+            android:id="@+id/author_field"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="author"
+            style="@style/list_item_txt_style"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+
+    <string name="no_conn">No internet connection!</string>
+    <string name="no_data">No data found!</string>
+    <string name="no_key_word">Please enter a key word!</string>
+
+    <string name="search_hint">search by title, author, ...</string>
+    <string name="search_btn_txt">SEARCH</string>
+
+    <string name="title_field_txt">Title: </string>
+    <string name="subtitle_field_txt">Subitle: </string>
+    <string name="author_field_txt">Author(s): </string>
+</resources>
