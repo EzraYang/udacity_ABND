@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.travel_isfahan.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:src="@drawable/isfahan_logo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/sight"
+                android:layout_width="@dimen/test"
+                android:layout_height="wrap_content"
+                android:src="@drawable/catagory1"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="@dimen/catagoryPaddingTop"/>
+
+
+            <ImageView
+                android:id="@+id/hotel"
+                android:layout_width="@dimen/test"
+                android:layout_height="wrap_content"
+                android:src="@drawable/catagory2"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="@dimen/catagoryPaddingTop"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/shopping"
+                android:layout_width="@dimen/test"
+                android:layout_height="wrap_content"
+                android:src="@drawable/catagory4"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="@dimen/catagoryPaddingTop"/>
+
+
+            <ImageView
+                android:id="@+id/restaurant"
+                android:layout_width="@dimen/test"
+                android:layout_height="wrap_content"
+                android:src="@drawable/catagory3"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="@dimen/catagoryPaddingTop"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

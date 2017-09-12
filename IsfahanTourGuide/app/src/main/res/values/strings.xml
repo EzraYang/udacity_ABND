@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Discover Isfahan</string>
+
+    <!--label of 4 catogories-->
+    <string name="lable_sight">Sights</string>
+    <string name="lable_shop">Shopping</string>
+    <string name="lable_hotel">Hotel</string>
+    <string name="lable_restaurant">Restaurant</string>
+
+    <!--list item header-->
+    <string name="nameIndicator">Name: </string>
+    <string name="locIndicator">Location: </string>
+
+    <!--info of sight catagory-->
+    <string name="sig1_name">Imam Square       </string>
+    <string name="sig2_name">Sheikh Lotfollah Mosque</string>
+    <string name="sig3_name">Jameh Mosque of Isfahan</string>
+    <string name="sig4_name">Vank Cathedral</string>
+    <string name="sig5_name">Amin\’s House</string>
+    <string name="sig6_name">Lonban Mosque</string>
+    <string name="sig7_name">Hakim Mosque</string>
+
+    <string name="sig1_loc">Esfahan,Iran</string>
+    <string name="sig2_loc">Ghal-e-Tabarok</string>
+    <string name="sig3_loc">Esfahan Bazaar</string>
+    <string name="sig4_loc">Jolfa District</string>
+    <string name="sig5_loc">Abdol Razagh Street</string>
+    <string name="sig6_loc">Lonban St</string>
+    <string name="sig7_loc">Esfahan Bazaar</string>
+
+    <!--info of shops-->
+    <string name="shop1_name">Bazaar of Isfahan</string>
+    <string name="shop2_name">Isfahan City Center</string>
+    <string name="shop3_name">Honar Gold Bazaar</string>
+    <string name="shop4_name">Orkideh Shopping Center</string>
+    <string name="shop5_name">Fotowat Miniaturist</string>
+    <string name="shop6_name">Akhvan Fakhfouri</string>
+
+    <string name="shop1_loc">Naqsh-e Jahan Square</string>
+    <string name="shop2_loc">Vahid Dastjerdi Highway</string>
+    <string name="shop3_loc">Chahar Bagh Avenue</string>
+    <string name="shop4_loc">Hakim Nezami Street</string>
+    <string name="shop5_loc">Naqsh-e-Jahan Sq</string>
+    <string name="shop6_loc">No48 Chitsazha Bazar</string>
+
+
+    <!--info of hotels-->
+    <string name="hot1_name">Iran Hotel</string>
+    <string name="hot2_name">Tak-Taku Guesthouse</string>
+    <string name="hot3_name">Kianpour\’s Residence</string>
+    <string name="hot4_name">Atigh Traditional Hotel</string>
+    <string name="hot5_name">Bekhradi\’s Historical House</string>
+    <string name="hot6_name">Venus Hotel</string>
+
+    <string name="hot1_loc">Chaharbagh Abbasi Avenue</string>
+    <string name="hot2_loc">Jalali St </string>
+    <string name="hot3_loc">Gool - Edavodi Blind Alley</string>
+    <string name="hot4_loc">Ebn-e-Sina St, Shohada Sq</string>
+    <string name="hot5_loc">Ebn-E-Sina St, Shohada Sq</string>
+    <string name="hot6_loc">Amadgah Street</string>
+
+
+    <!--info of restaurants-->
+    <string name="res1_name">Restaurant Shahrzad</string>
+    <string name="res2_name">Azadegan Cafe</string>
+    <string name="res3_name">Firouz Sherbat Cafe</string>
+    <string name="res4_name">Arc a Restaurant</string>
+    <string name="res5_name">Malek Soltan Jarchi Bashi</string>
+    <string name="res6_name">Romanos</string>
+
+    <string name="res1_loc">Abbas Abad Street</string>
+    <string name="res2_loc">Chah Haj Mirza alley</string>
+    <string name="res3_loc">Jolfa St.</string>
+    <string name="res4_loc">Vank Church Alley </string>
+    <string name="res5_loc">Balgh Ghalandarha Alley</string>
+    <string name="res6_loc">Jolfa Bath House</string>
+
+
+</resources>
